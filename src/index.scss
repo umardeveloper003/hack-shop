@@ -1,5 +1,6 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+@import "./scss/global";
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
 }

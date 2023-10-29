@@ -1,12 +1,14 @@
-import React from 'react'
-import Section1 from './page/section1/Section1'
+import React from 'react';
+import Header from './components/Haeder/Header';
 
 const App = () => {
-  return (
-	<div>
-		<Section1 />
-	</div>
-  )
-}
+	return (
+		<div>
+			<>
+				<Header />
+			</>
+		</div>
+	);
+};
 
 export default App
