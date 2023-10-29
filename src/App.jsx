@@ -1,10 +1,10 @@
 import React from 'react'
-import Section from './page/Section'
+import Section1 from './page/section1/Section1'
 
 const App = () => {
   return (
 	<div>
-		<Section />
+		<Section1 />
 	</div>
   )
 }
