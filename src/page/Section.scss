@@ -1,0 +1,21 @@
+div {
+  display: flex;
+  justify-content: center;
+  .section-6-image {
+    padding-left: 0px;
+    display: flex;
+    li {
+      list-style: none;
+      margin: 15px;
+      img {
+        width: 180px;
+      }
+      p {
+        margin-top: 20px;
+        width: 180px;
+        display: flex;
+        justify-content: center;
+      }
+    }
+  }
+}
