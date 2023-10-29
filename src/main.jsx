@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.scss';
-import Woman from './page/Woman';
+import App from './App';
+import { BrowserRouter as Router } from 'react-router-dom';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
 	<React.StrictMode>
-		<Woman />
+		<Router>
+			<App />
+		</Router>
 	</React.StrictMode>,
 );

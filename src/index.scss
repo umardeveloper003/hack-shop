@@ -1,6 +1,12 @@
-@import "./scss/global";
+@import './scss/global';
 
 .container {
-  width: 1200px;
-  margin: 0 auto;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+a,
+ul {
+	list-style: none;
+	text-decoration: none;
 }
