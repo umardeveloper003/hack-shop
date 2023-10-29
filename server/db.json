@@ -124,7 +124,7 @@
         {
             "id": 12,
             "title": "Джинсы",
-            "imageUrl": "/public/assets/image12.pngбб",
+            "imageUrl": "/public/assets/image12.png",
             "categories": "trousers jeans",
             "price": "3150",
             "description": "This is product one",

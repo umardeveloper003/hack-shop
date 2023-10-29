@@ -1,51 +1,35 @@
 .woman-block {
-	display: flex;
-	.woman-content {
-		width: 915px;
-		height: auto;
-		margin: 0 auto;
-
-		.dropdown {
-			position: relative;
-			display: inline-block;
-
-			.dropbtn {
-				background-color: #3498db;
-				color: white;
-				padding: 10px;
-				border: none;
-				cursor: pointer;
-
-				&:hover {
-					background-color: #2980b9;
-				}
-			}
-
-			.dropdown-content {
-				display: none;
-				position: absolute;
-				background-color: #f9f9f9;
-				min-width: 160px;
-				box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-				z-index: 1;
-
-				a {
-					color: #333;
-					padding: 12px 16px;
-					text-decoration: none;
-					display: block;
-
-					&:hover {
-						background-color: #ddd;
-					}
-				}
-			}
-
-			&.open {
-				.dropdown-content {
-					display: block;
-				}
-			}
-		}
-	}
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-top: 3rem;
+  .woman-content {
+    width: 915px;
+    height: auto;
+    margin: 0 auto;
+    .woman-sort {
+      display: flex;
+      height: 100px;
+      justify-content: space-between;
+      .sort-button {
+        display: flex;
+        gap: 2rem;
+        div {
+          > button {
+            font-size: 14px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            gap: 59px;
+            border: none;
+            border-radius: 4px;
+            background: #d7dadd;
+            color: #424551;
+          }
+        }
+      }
+    }
+  }
 }
