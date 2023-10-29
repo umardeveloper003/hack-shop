@@ -1,0 +1,136 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Свитер",
+            "imageUrl": "/public/assets/image1.png",
+            "categories": "Cardigans sweaters",
+            "price": "1950",
+            "description": "This is product one",
+            "size": "46",
+            "color": "lightblue",
+            "material": "синтетические волокна"
+        },
+        {
+            "id": 2,
+            "title": "Брюки",
+            "imageUrl": "/public/assets/image2.png",
+            "categories": "trousers jeans",
+            "price": "1700",
+            "description": "This is product one",
+            "size": "44",
+            "color": "blue",
+            "material": "Деним"
+        },
+        {
+            "id": 3,
+            "title": "Кепка",
+            "imageUrl": "/public/assets/image3.png",
+            "categories": "cap",
+            "price": "800",
+            "description": "This is product one",
+            "size": "",
+            "color": "white | black",
+            "material": "волокна"
+        },
+        {
+            "id": 4,
+            "title": "Футболка",
+            "imageUrl": "/public/assets/image4.png",
+            "categories": "t-shirt ",
+            "price": "1300",
+            "description": "This is product one",
+            "size": "48",
+            "color": "lightblue",
+            "material": ""
+        },
+        {
+            "id": 5,
+            "title": "Пальто",
+            "imageUrl": "/public/assets/image5.png",
+            "categories": "jackets coat",
+            "price": "7600",
+            "description": "This is product one",
+            "size": "46",
+            "color": "black",
+            "material": "Гипюр"
+        },
+        {
+            "id": 6,
+            "title": "null",
+            "imageUrl": "/public/assets/image6.png",
+            "categories": "",
+            "price": "400",
+            "description": "This is product one",
+            "size": "",
+            "color": "red",
+            "material": ""
+        },
+        {
+            "id": 7,
+            "title": "Часы",
+            "imageUrl": "/public/assets/image7.png",
+            "categories": "watch",
+            "price": "6000",
+            "description": "This is product one",
+            "size": "",
+            "color": "null",
+            "material": ""
+        },
+        {
+            "id": 8,
+            "title": "Обувь",
+            "imageUrl": "/public/assets/image8.png",
+            "categories": "shoes",
+            "price": "1800",
+            "description": "This is product one",
+            "size": "",
+            "color": "grey",
+            "material": ""
+        },
+        {
+            "id": 9,
+            "title": "Худи",
+            "imageUrl": "/public/assets/image9.png",
+            "categories": "Sweatshirts hoodies",
+            "price": "1220",
+            "description": "This is product one",
+            "size": "44 46 48",
+            "color": "lightpink",
+            "material": "флис"
+        },
+        {
+            "id": 10,
+            "title": "Обувь",
+            "imageUrl": "/public/assets/image10.png",
+            "categories": "shoes",
+            "price": "2650",
+            "description": "This is product one",
+            "size": "",
+            "color": "grey",
+            "material": ""
+        },
+        {
+            "id": 11,
+            "title": "Сумка женская",
+            "imageUrl": "/public/assets/image11.png",
+            "categories": "bag",
+            "price": "1400",
+            "description": "This is product one",
+            "size": "",
+            "color": "Dark red",
+            "material": ""
+        },
+        {
+            "id": 12,
+            "title": "Джинсы",
+            "imageUrl": "/public/assets/image12.pngбб",
+            "categories": "trousers jeans",
+            "price": "3150",
+            "description": "This is product one",
+            "size": "46",
+            "color": "dark blue",
+            "material": "Деним"
+        }
+    ]
+}
