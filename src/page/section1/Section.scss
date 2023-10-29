@@ -1,0 +1,24 @@
+.background_ {
+  background-image: url(/public/assets/background.png);
+  width: 1519px;
+  height: 300px;
+  display: flex;
+  .imageee {
+    margin-left: 220px;
+    margin-top: -30px;
+  }
+  .ebalai {
+    width: 550px;
+    height: 84px;
+    margin-top: 60px;
+    margin-left: 50px;
+    font-size: 32px;
+    color: white;
+  }
+  .btns {
+    width: 350px;
+    height: 48px;
+    margin-left: -550px;
+    margin-top: 180px;
+  }
+}

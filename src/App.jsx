@@ -1,14 +1,11 @@
-import React from 'react'
-import HeaderTop from './components/headerTop/HeaderTop'
-import Header from './components/Header/Header'
+import React from 'react';
 
-const App = () => {
-  return (
-	<div>
-		<HeaderTop />
-		<Header />
-	</div>
+function App() {
+  return(
+    <div>
+            
+    </div>
   )
 }
 
-export default App
+export default App;
