@@ -9,6 +9,7 @@ export default function HaederTop() {
           <div class="title_hedTop">
             <h1>Available 24/7 at (405) 555-0128</h1>
           </div>
+          <h2>Hello</h2>
           <ul class="nav_top">
             <li>Delivery &amp; returns</li>
             <li>Track order</li>
